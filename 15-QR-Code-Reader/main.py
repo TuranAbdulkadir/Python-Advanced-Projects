@@ -1,0 +1,19 @@
+import cv2
+
+cap = cv2.VideoCapture(0)
+detector = cv2.QRCodeDetector()
+
+print("Show a QR code to the camera (Press 'q' to quit)")
+
+while True:
+    _, img = cap.read()
+    data, bbox, _ = detector.detectAndDecode(img)
+    
+    if data:
+        print("✅ QR CODE DETECTED:", data)
+    
+    cv2.imshow("QR Reader", img)
+    if cv2.waitKey(1) == ord("q"): break
+
+cap.release()
+cv2.destroyAllWindows()
