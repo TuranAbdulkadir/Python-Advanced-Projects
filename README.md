@@ -36,7 +36,16 @@ A collection of 30 advanced-level Python projects focusing on **Cybersecurity, A
 | 28 | **Voice Recorder** | Audio | SoundDevice |
 | 29 | **Image to Text** | AI/OCR | EasyOCR |
 | 30 | **Internet Blocker** | System | OS/Host File |
-
+| 31 | Video to MP3 | Media | MoviePy |
+| 32 | Barcode Gen | Tool | Python-Barcode |
+| 33 | System Monitor | System | Psutil/GUI |
+| 34 | Lang Detector | AI | LangDetect |
+| 35 | PDF Protector | Security | PyPDF2 |
+| 36 | Site Checker | Network | Requests |
+| 37 | Stopwatch | GUI | Tkinter |
+| 38 | YT Info | Data | Pytube |
+| 39 | IP Tracker | Network | Geocoder |
+| 40 | Shutdown Timer | System | OS/GUI |
 ---
 
 ### 🛠️ Installation & Requirements
