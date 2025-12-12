@@ -1,6 +1,6 @@
-# 🚀 30 Advanced Python Projects
+# 🚀 60 Advanced Python Projects
 
-A collection of 30 advanced-level Python projects focusing on **Cybersecurity, AI (Artificial Intelligence), Computer Vision, Automation, and Data Science.**
+A comprehensive collection of **60** advanced-level Python projects focusing on **Cybersecurity, Ethical Hacking, AI (Artificial Intelligence), Computer Vision, Automation, and Data Forensics.**
 
 ## 📂 Project List
 
@@ -46,10 +46,31 @@ A collection of 30 advanced-level Python projects focusing on **Cybersecurity, A
 | 38 | YT Info | Data | Pytube |
 | 39 | IP Tracker | Network | Geocoder |
 | 40 | Shutdown Timer | System | OS/GUI |
+| 41 | **Keylogger Detector** | CyberSec | Psutil |
+| 42 | **Invisibility Cloak** | AI/Vision | OpenCV |
+| 43 | **Port Scanner Pro** | Network | Socket/Threading |
+| 44 | **Encrypted Chat** | Network | Socket/Server |
+| 45 | **Face Unlock** | Security | OpenCV/Haar |
+| 46 | **Ransomware Sim** | CyberSec | Cryptography |
+| 47 | **Motion Security Cam** | Security | OpenCV |
+| 48 | **Clipboard Spy** | Forensics | Pyperclip |
+| 49 | **DDoS Simulation** | CyberSec | Socket/UDP |
+| 50 | **Document Scanner** | AI/Vision | OpenCV/Numpy |
+| 51 | **License Plate Reader** | AI/Vision | EasyOCR |
+| 52 | **Wifi Deauthor** | CyberSec | Scapy |
+| 53 | **AI Virtual Mouse** | AI/Vision | OpenCV/Numpy |
+| 54 | **SQL Injection Scanner**| CyberSec | Requests/BS4 |
+| 55 | **SSH Brute Force** | CyberSec | Paramiko |
+| 56 | **Smart Attendance** | System | OpenCV/Datetime |
+| 57 | **Shodan Search** | OSINT | Shodan API |
+| 58 | **Deepfake Detector** | AI/Vision | OpenCV/Laplacian |
+| 59 | **Packet Sniffer** | CyberSec | Scapy |
+| 60 | **Sign Language AI** | AI/Vision | MediaPipe |
+
 ---
 
 ### 🛠️ Installation & Requirements
-Projects in this repository require various external libraries. You can install all dependencies using the command below:
+Projects in this repository require various advanced external libraries. You can install all dependencies using the command below:
 
 ```bash
-py -m pip install opencv-python numpy textblob stegano customtkinter colorama pandas openpyxl deep-translator instaloader cryptography cvzone pynput pywhatkit yfinance sounddevice scipy pytesseract easyocr
+py -m pip install opencv-python numpy textblob stegano customtkinter colorama pandas openpyxl deep-translator instaloader cryptography cvzone pynput pywhatkit yfinance sounddevice scipy pytesseract easyocr scapy paramiko shodan mediapipe browser-history discord-webhook whois screen-brightness-control pyttsx3
