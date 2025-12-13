@@ -1,0 +1,4 @@
+PENTEST RAPORU - criyus.com
+==============================
+Açık Portlar: [80, 443]
+Eksik Başlıklar: ['X-Frame-Options (Clickjacking Riski)']
