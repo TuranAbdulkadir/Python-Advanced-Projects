@@ -1,0 +1,2 @@
+# 📡 Project 216: EAPOL Listener
+A network analysis script using Scapy to detect **EAPOL** frames. These frames are exchanged during the 4-way handshake when a device connects to Wi-Fi. Capturing these is the first step in auditing wireless network security.

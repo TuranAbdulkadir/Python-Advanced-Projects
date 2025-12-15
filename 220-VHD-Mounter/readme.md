@@ -1,0 +1,2 @@
+# 🌑 Project 220: VHD Manager Logic
+Demonstrates the programmatic creation and mounting of **Virtual Hard Disks (VHD)** using Windows built-in tools. This technique is used for legitimate virtualization but also studied in forensics to understand how data can be hidden in monolithic files.

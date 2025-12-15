@@ -1,0 +1,2 @@
+# 🖱️ Project 219: RF Scanning Logic
+Demonstrates the logic of scanning the 2.4GHz spectrum for **NRF24L01** based devices (common in wireless mice/keyboards). It iterates through channels to detect signal activity, which is the first step in RF security research.
