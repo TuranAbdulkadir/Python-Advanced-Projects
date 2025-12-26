@@ -1,4 +1,4 @@
-# 🚀 171 Advanced Python Projects
+# 🚀 252 Advanced Python Projects
 
 A comprehensive collection of **60** advanced-level Python projects focusing on **Cybersecurity, Ethical Hacking, AI (Artificial Intelligence), Computer Vision, Automation, and Data Forensics.**
 
