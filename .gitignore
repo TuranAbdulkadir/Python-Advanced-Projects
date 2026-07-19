@@ -1,0 +1,38 @@
+# Build artifacts (PyInstaller)
+build/
+dist/
+*.spec
+*.exe
+*.toc
+*.pyz
+*.pkg
+*.zip
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+*.egg
+
+# Virtual environment
+venv/
+.venv/
+env/
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific
+stolen_creds.txt
+*.log
+*.db
